@@ -1,5 +1,6 @@
 # LG_AImers
 LG AImers 리뷰용 코드 merge 용
+<<<<<<< HEAD
 
 ---
 ## 피처 엔지니어링
@@ -12,3 +13,5 @@ LG AImers 리뷰용 코드 merge 용
 4. 레이블 인코딩(순서 있을때 사용)
   - activity, sleep_pattern, edu_level 컬럼에 대하여 레이블 인코딩
 5. 
+=======
+>>>>>>> origin/main
